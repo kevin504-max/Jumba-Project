@@ -1,3 +1,7 @@
+Configuração do Banco de Dados
+Crie um banco de dados vazio no seu servidor MySQL.
+Execute o script SQL fornecido (dadosb3.sql) para criar a tabela.
+
 Configuração da Aplicação Laravel
 Navegue até a pasta laravel do projeto.
 Execute o comando composer install para instalar as dependências do Laravel.
