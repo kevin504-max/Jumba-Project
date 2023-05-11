@@ -15,6 +15,9 @@ Execute o comando npm install para instalar as dependências do Vue.js.
 Execute o comando npm run serve para iniciar o servidor de desenvolvimento do Vue.js.
 A aplicação Vue.js estará disponível em http://localhost:8080.
 
+Comando Artisan
+Para efetuar a importação de dados execute o comando: php artisan php artisan app:import-dados-b3-from-web
+
 Acesso ao Projeto
 Após configurar e executar ambas as aplicações, você poderá acessar o projeto no seu navegador. As seguintes URLs estarão disponíveis:
 
