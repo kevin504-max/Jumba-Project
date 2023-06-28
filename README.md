@@ -33,6 +33,7 @@ Aplicação desenvolvida para baixar e apresentar de modo qualitativo dados do s
 
 Observação: Certifique-se de que os pré-requisitos, como o PHP, Composer e Node.js, estejam devidamente instalados em sua máquina antes de prosseguir com as etapas acima.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### English Version
 
 ### Database Configuration
